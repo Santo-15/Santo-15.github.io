@@ -8,7 +8,8 @@ index.html                       the whole page (HTML, CSS and JS inline)
 assets/Santosh-Kukna-Resume.pdf  résumé linked from the page and the dock
 assets/logos/                    TransOrg, CloudDefense and IIT Roorkee logos
 assets/rca/rca-agent-demo.mp4    RCA demo video (opens from the project card)
-assets/rca/ui-solved.png         RCA screenshot (card image and link-preview image)
+assets/rca/ui-solved.png         RCA screenshot (project card image)
+assets/og-preview.png            link-preview image (screenshot of the home page, 1200x630)
 ```
 
 ## Add your photo
